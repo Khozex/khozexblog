@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Khozex'
+theme = 'PaperMod'
+[params]
+  [params.homeInfoParams]
+    Title = "Hello Stranger 👋"
+    Content = "My name is Khozex, I'm enthusiastic about technology, programming, martial arts and music. I'm a software engineer, I love to learn new things and share my knowledge with others."
+
+  [[params.socialIcons]]
+    name = "<platform>"
+    url = "<link>"
+
+  [[params.socialIcons]]
+    name = "<platform 2>"
+    url = "<link2>"
